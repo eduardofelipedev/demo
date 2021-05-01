@@ -1,3 +1,6 @@
 # Demo
 
-Learning Github
+- Learning Github
+
+1. I know how push modifications to Github
+
